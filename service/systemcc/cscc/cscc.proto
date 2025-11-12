@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package hlfsdk.service.systemcc.cscc;
 
-option go_package = "github.com/s7techlab/hlf-sdk-go/service/systemcc/cscc";
+option go_package = "github.com/BukerDevid/hlf-sdk-go/service/systemcc/cscc";
 
 
 import "hyperledger/fabric-protos/common/common.proto";

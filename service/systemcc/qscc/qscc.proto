@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package hlfsdk.service.systemcc.qscc;
 
-option go_package = "github.com/s7techlab/hlf-sdk-go/service/systemcc/qscc";
+option go_package = "github.com/BukerDevid/hlf-sdk-go/service/systemcc/qscc";
 
 
 import "hyperledger/fabric-protos/common/ledger.proto";

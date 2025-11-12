@@ -1,4 +1,4 @@
-module github.com/s7techlab/hlf-sdk-go
+module github.com/BukerDevid/hlf-sdk-go
 
 go 1.22.0
 
@@ -33,9 +33,10 @@ require (
 	gopkg.in/yaml.v2 v2.4.0
 )
 
+require github.com/s7techlab/hlf-sdk-go v0.11.2
+
 require (
 	dario.cat/mergo v1.0.1 // indirect
-	github.com/AdaLogics/go-fuzz-headers v0.0.0-20230811130428-ced1acdcaa24 // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20250102033503-faa5f7b0171c // indirect
 	github.com/IBM/idemix v0.0.2-0.20231011101252-a4feda90f3f7 // indirect
 	github.com/IBM/idemix/bccsp/schemes/aries v0.0.0-20231003085036-c4470b87b2d6 // indirect

@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package hlfsdkgo.block;
 
-option go_package = "github.com/s7techlab/hlf-sdk-go/block";
+option go_package = "github.com/BukerDevid/hlf-sdk-go/block";
 
 import "hyperledger/fabric-protos/common/configuration.proto";
 import "hyperledger/fabric-protos/common/policies.proto";

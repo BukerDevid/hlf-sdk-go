@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Run Unit tests
         run: |
-          go test -race -covermode=atomic -coverprofile=profile.cov -coverpkg=github.com/s7techlab/hlf-sdk-go/... ./client/...
+          go test -race -covermode=atomic -coverprofile=profile.cov -coverpkg=github.com/BukerDevid/hlf-sdk-go/... ./client/...
 
       - name: Send coverage
         uses: shogo82148/actions-goveralls@v1

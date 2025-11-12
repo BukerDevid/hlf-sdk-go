@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package hlfsdk.service.systemcc.lifecyclecc;
 
-option go_package = "github.com/s7techlab/hlf-sdk-go/service/systemcc/lifecycle";
+option go_package = "github.com/BukerDevid/hlf-sdk-go/service/systemcc/lifecycle";
 
 import "hyperledger/fabric-protos/peer/lifecycle/lifecycle.proto";
 
