@@ -3,7 +3,7 @@ package packer
 import (
 	"context"
 
-	"github.com/s7techlab/hlf-sdk-go/service/ccpackage"
+	"github.com/BukerDevid/hlf-sdk-go/service/ccpackage"
 )
 
 type (

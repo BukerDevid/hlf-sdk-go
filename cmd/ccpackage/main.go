@@ -8,9 +8,9 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/s7techlab/hlf-sdk-go/service/ccpackage"
-	"github.com/s7techlab/hlf-sdk-go/service/ccpackage/fetcher"
-	dockerpacker "github.com/s7techlab/hlf-sdk-go/service/ccpackage/packer/docker"
+	"github.com/BukerDevid/hlf-sdk-go/service/ccpackage"
+	"github.com/BukerDevid/hlf-sdk-go/service/ccpackage/fetcher"
+	dockerpacker "github.com/BukerDevid/hlf-sdk-go/service/ccpackage/packer/docker"
 )
 
 func main() {

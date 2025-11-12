@@ -8,8 +8,8 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
-	"github.com/s7techlab/hlf-sdk-go/client/deliver"
+	"github.com/BukerDevid/hlf-sdk-go/api"
+	"github.com/BukerDevid/hlf-sdk-go/client/deliver"
 )
 
 func TestSeek(t *testing.T) {

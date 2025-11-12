@@ -14,7 +14,7 @@ import (
 	"github.com/hyperledger/fabric/msp"
 	"github.com/pkg/errors"
 
-	hlfproto "github.com/s7techlab/hlf-sdk-go/block"
+	hlfproto "github.com/BukerDevid/hlf-sdk-go/block"
 )
 
 type BlocksDelivererMock struct {

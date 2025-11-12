@@ -6,8 +6,8 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/s7techlab/hlf-sdk-go/observer"
-	testdata "github.com/s7techlab/hlf-sdk-go/testdata/blocks"
+	"github.com/BukerDevid/hlf-sdk-go/observer"
+	testdata "github.com/BukerDevid/hlf-sdk-go/testdata/blocks"
 )
 
 var _ = Describe("Peer channels", func() {

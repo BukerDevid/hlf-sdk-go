@@ -7,10 +7,10 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	hlfproto "github.com/s7techlab/hlf-sdk-go/block"
-	sdkmocks "github.com/s7techlab/hlf-sdk-go/client/deliver/testing"
-	"github.com/s7techlab/hlf-sdk-go/observer"
-	testdata "github.com/s7techlab/hlf-sdk-go/testdata/blocks"
+	hlfproto "github.com/BukerDevid/hlf-sdk-go/block"
+	sdkmocks "github.com/BukerDevid/hlf-sdk-go/client/deliver/testing"
+	"github.com/BukerDevid/hlf-sdk-go/observer"
+	testdata "github.com/BukerDevid/hlf-sdk-go/testdata/blocks"
 )
 
 var (

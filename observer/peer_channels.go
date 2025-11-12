@@ -12,7 +12,7 @@ import (
 	"go.uber.org/zap"
 	"google.golang.org/protobuf/types/known/timestamppb"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
+	"github.com/BukerDevid/hlf-sdk-go/api"
 )
 
 const DefaultPeerChannelsRefreshPeriod = 30 * time.Second

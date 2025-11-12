@@ -11,7 +11,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/s7techlab/hlf-sdk-go/client/ca"
+	"github.com/BukerDevid/hlf-sdk-go/client/ca"
 )
 
 const (

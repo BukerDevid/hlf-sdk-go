@@ -10,10 +10,10 @@ import (
 	"os"
 	"time"
 
+	"github.com/BukerDevid/hlf-sdk-go/api/config"
+	"github.com/BukerDevid/hlf-sdk-go/client/grpc/opencensus/hlf"
 	grpcretry "github.com/grpc-ecosystem/go-grpc-middleware/retry"
 	"github.com/pkg/errors"
-	"github.com/s7techlab/hlf-sdk-go/api/config"
-	"github.com/s7techlab/hlf-sdk-go/client/grpc/opencensus/hlf"
 	"go.opencensus.io/plugin/ocgrpc"
 	"go.opencensus.io/trace"
 	"go.uber.org/zap"

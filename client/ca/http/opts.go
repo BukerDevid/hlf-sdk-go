@@ -7,7 +7,7 @@ import (
 
 	"gopkg.in/yaml.v2"
 
-	"github.com/s7techlab/hlf-sdk-go/api/config"
+	"github.com/BukerDevid/hlf-sdk-go/api/config"
 )
 
 type Opt func(c *Client) error

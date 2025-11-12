@@ -13,9 +13,9 @@ import (
 	"github.com/hyperledger/fabric/msp"
 	"github.com/pkg/errors"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
-	"github.com/s7techlab/hlf-sdk-go/client/deliver/subs"
-	"github.com/s7techlab/hlf-sdk-go/client/tx"
+	"github.com/BukerDevid/hlf-sdk-go/api"
+	"github.com/BukerDevid/hlf-sdk-go/client/deliver/subs"
+	"github.com/BukerDevid/hlf-sdk-go/client/tx"
 )
 
 type Deliver struct {

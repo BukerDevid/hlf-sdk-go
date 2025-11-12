@@ -15,14 +15,14 @@ import (
 	"go.uber.org/zap"
 	"google.golang.org/grpc"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
-	"github.com/s7techlab/hlf-sdk-go/api/config"
-	"github.com/s7techlab/hlf-sdk-go/block"
-	"github.com/s7techlab/hlf-sdk-go/client/channel"
-	"github.com/s7techlab/hlf-sdk-go/client/deliver"
-	grpcclient "github.com/s7techlab/hlf-sdk-go/client/grpc"
-	"github.com/s7techlab/hlf-sdk-go/client/tx"
-	"github.com/s7techlab/hlf-sdk-go/service/systemcc/qscc"
+	"github.com/BukerDevid/hlf-sdk-go/api"
+	"github.com/BukerDevid/hlf-sdk-go/api/config"
+	"github.com/BukerDevid/hlf-sdk-go/block"
+	"github.com/BukerDevid/hlf-sdk-go/client/channel"
+	"github.com/BukerDevid/hlf-sdk-go/client/deliver"
+	grpcclient "github.com/BukerDevid/hlf-sdk-go/client/grpc"
+	"github.com/BukerDevid/hlf-sdk-go/client/tx"
+	"github.com/BukerDevid/hlf-sdk-go/service/systemcc/qscc"
 )
 
 const (

@@ -1,7 +1,7 @@
 package memory
 
 import (
-	wallet2 "github.com/s7techlab/hlf-sdk-go/service/wallet"
+	wallet2 "github.com/BukerDevid/hlf-sdk-go/service/wallet"
 )
 
 type (

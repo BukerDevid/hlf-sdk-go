@@ -3,7 +3,7 @@ package crypto
 import (
 	"github.com/pkg/errors"
 
-	"github.com/s7techlab/hlf-sdk-go/crypto/ecdsa"
+	"github.com/BukerDevid/hlf-sdk-go/crypto/ecdsa"
 )
 
 type Config struct {

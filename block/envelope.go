@@ -8,7 +8,7 @@ import (
 	"github.com/hyperledger/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric/protoutil"
 
-	"github.com/s7techlab/hlf-sdk-go/block/txflags"
+	"github.com/BukerDevid/hlf-sdk-go/block/txflags"
 )
 
 func (x *Envelope) ChannelHeader() *common.ChannelHeader {

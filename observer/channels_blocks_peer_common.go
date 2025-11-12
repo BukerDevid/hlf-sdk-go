@@ -3,7 +3,7 @@ package observer
 import (
 	"github.com/hyperledger/fabric-protos-go/common"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
+	"github.com/BukerDevid/hlf-sdk-go/api"
 )
 
 type ChannelsBlocksPeerCommon struct {

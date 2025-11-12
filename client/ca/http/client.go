@@ -12,11 +12,11 @@ import (
 	"github.com/hyperledger/fabric/msp"
 	"github.com/pkg/errors"
 
-	"github.com/s7techlab/hlf-sdk-go/api/config"
-	"github.com/s7techlab/hlf-sdk-go/client"
-	"github.com/s7techlab/hlf-sdk-go/client/ca"
-	clienterrors "github.com/s7techlab/hlf-sdk-go/client/errors"
-	"github.com/s7techlab/hlf-sdk-go/crypto"
+	"github.com/BukerDevid/hlf-sdk-go/api/config"
+	"github.com/BukerDevid/hlf-sdk-go/client"
+	"github.com/BukerDevid/hlf-sdk-go/client/ca"
+	clienterrors "github.com/BukerDevid/hlf-sdk-go/client/errors"
+	"github.com/BukerDevid/hlf-sdk-go/crypto"
 )
 
 type Client struct {

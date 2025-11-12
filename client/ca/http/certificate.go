@@ -10,7 +10,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/s7techlab/hlf-sdk-go/client/ca"
+	"github.com/BukerDevid/hlf-sdk-go/client/ca"
 )
 
 const endpointCertificateList = "%s/api/v1/certificates%s"

@@ -1,8 +1,8 @@
 package observer
 
 import (
-	"github.com/s7techlab/hlf-sdk-go/api"
-	hlfproto "github.com/s7techlab/hlf-sdk-go/block"
+	"github.com/BukerDevid/hlf-sdk-go/api"
+	hlfproto "github.com/BukerDevid/hlf-sdk-go/block"
 )
 
 type ChannelsBlocksPeerParsed struct {

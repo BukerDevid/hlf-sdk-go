@@ -8,12 +8,12 @@ import (
 
 	"github.com/golang/protobuf/ptypes/empty"
 
-	"github.com/s7techlab/hlf-sdk-go/block"
-	"github.com/s7techlab/hlf-sdk-go/client"
-	_ "github.com/s7techlab/hlf-sdk-go/crypto/ecdsa"
-	"github.com/s7techlab/hlf-sdk-go/identity"
-	"github.com/s7techlab/hlf-sdk-go/service/systemcc/cscc"
-	"github.com/s7techlab/hlf-sdk-go/service/systemcc/qscc"
+	"github.com/BukerDevid/hlf-sdk-go/block"
+	"github.com/BukerDevid/hlf-sdk-go/client"
+	_ "github.com/BukerDevid/hlf-sdk-go/crypto/ecdsa"
+	"github.com/BukerDevid/hlf-sdk-go/identity"
+	"github.com/BukerDevid/hlf-sdk-go/service/systemcc/cscc"
+	"github.com/BukerDevid/hlf-sdk-go/service/systemcc/qscc"
 )
 
 func main() {

@@ -19,7 +19,7 @@ import (
 	"google.golang.org/grpc/credentials"
 	testpb "google.golang.org/grpc/interop/grpc_testing"
 
-	"github.com/s7techlab/hlf-sdk-go/api/config"
+	"github.com/BukerDevid/hlf-sdk-go/api/config"
 )
 
 var (

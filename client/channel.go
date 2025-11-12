@@ -10,13 +10,13 @@ import (
 	"go.uber.org/zap"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
-	"github.com/s7techlab/hlf-sdk-go/api/config"
-	"github.com/s7techlab/hlf-sdk-go/block"
-	"github.com/s7techlab/hlf-sdk-go/client/chaincode"
-	"github.com/s7techlab/hlf-sdk-go/client/grpc"
-	"github.com/s7techlab/hlf-sdk-go/client/tx"
-	"github.com/s7techlab/hlf-sdk-go/service/systemcc/cscc"
+	"github.com/BukerDevid/hlf-sdk-go/api"
+	"github.com/BukerDevid/hlf-sdk-go/api/config"
+	"github.com/BukerDevid/hlf-sdk-go/block"
+	"github.com/BukerDevid/hlf-sdk-go/client/chaincode"
+	"github.com/BukerDevid/hlf-sdk-go/client/grpc"
+	"github.com/BukerDevid/hlf-sdk-go/client/tx"
+	"github.com/BukerDevid/hlf-sdk-go/service/systemcc/cscc"
 )
 
 type Channel struct {

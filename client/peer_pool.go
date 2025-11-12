@@ -15,8 +15,8 @@ import (
 	"google.golang.org/grpc/connectivity"
 	"google.golang.org/grpc/status"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
-	clienterrors "github.com/s7techlab/hlf-sdk-go/client/errors"
+	"github.com/BukerDevid/hlf-sdk-go/api"
+	clienterrors "github.com/BukerDevid/hlf-sdk-go/client/errors"
 )
 
 var ErrEndorsingMSPsRequired = errors.New(`endorsing MSPs required`)

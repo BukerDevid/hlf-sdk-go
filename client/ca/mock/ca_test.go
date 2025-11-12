@@ -9,8 +9,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/s7techlab/hlf-sdk-go/client/ca"
-	"github.com/s7techlab/hlf-sdk-go/client/ca/mock"
+	"github.com/BukerDevid/hlf-sdk-go/client/ca"
+	"github.com/BukerDevid/hlf-sdk-go/client/ca/mock"
 )
 
 var (

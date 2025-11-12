@@ -9,10 +9,10 @@ import (
 	"github.com/hyperledger/fabric-protos-go/peer"
 	lsccPkg "github.com/hyperledger/fabric/core/scc/lscc"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
-	"github.com/s7techlab/hlf-sdk-go/client/chaincode"
-	"github.com/s7techlab/hlf-sdk-go/client/tx"
-	"github.com/s7techlab/hlf-sdk-go/service"
+	"github.com/BukerDevid/hlf-sdk-go/api"
+	"github.com/BukerDevid/hlf-sdk-go/client/chaincode"
+	"github.com/BukerDevid/hlf-sdk-go/client/tx"
+	"github.com/BukerDevid/hlf-sdk-go/service"
 )
 
 //go:embed lscc.swagger.json

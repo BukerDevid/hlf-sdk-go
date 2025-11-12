@@ -10,7 +10,7 @@ import (
 
 	"github.com/hashicorp/vault/api"
 
-	"github.com/s7techlab/hlf-sdk-go/service/wallet"
+	"github.com/BukerDevid/hlf-sdk-go/service/wallet"
 )
 
 type (

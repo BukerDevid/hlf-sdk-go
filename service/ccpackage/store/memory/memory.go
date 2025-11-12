@@ -9,8 +9,8 @@ import (
 
 	"github.com/golang/protobuf/ptypes"
 
-	"github.com/s7techlab/hlf-sdk-go/service/ccpackage"
-	"github.com/s7techlab/hlf-sdk-go/service/ccpackage/store"
+	"github.com/BukerDevid/hlf-sdk-go/service/ccpackage"
+	"github.com/BukerDevid/hlf-sdk-go/service/ccpackage/store"
 )
 
 const (

@@ -11,7 +11,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/zap"
 
-	"github.com/s7techlab/hlf-sdk-go/service/ccpackage/fetcher"
+	"github.com/BukerDevid/hlf-sdk-go/service/ccpackage/fetcher"
 )
 
 func TestFileFetcher_Fetch(t *testing.T) {

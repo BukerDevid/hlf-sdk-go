@@ -12,7 +12,7 @@ import (
 
 	empty "google.golang.org/protobuf/types/known/emptypb"
 
-	"github.com/s7techlab/hlf-sdk-go/service"
+	"github.com/BukerDevid/hlf-sdk-go/service"
 )
 
 var (

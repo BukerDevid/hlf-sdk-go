@@ -8,7 +8,7 @@ import (
 	"github.com/hyperledger/fabric-protos-go/orderer"
 	"github.com/hyperledger/fabric/msp"
 
-	"github.com/s7techlab/hlf-sdk-go/block"
+	"github.com/BukerDevid/hlf-sdk-go/block"
 )
 
 type SeekBlock struct {

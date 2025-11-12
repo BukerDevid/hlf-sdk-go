@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/s7techlab/hlf-sdk-go/crypto"
+	"github.com/BukerDevid/hlf-sdk-go/crypto"
 )
 
 type Config struct {

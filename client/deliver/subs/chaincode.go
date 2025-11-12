@@ -5,7 +5,7 @@ import (
 	"github.com/hyperledger/fabric-protos-go/common"
 	"github.com/hyperledger/fabric-protos-go/peer"
 
-	"github.com/s7techlab/hlf-sdk-go/block"
+	"github.com/BukerDevid/hlf-sdk-go/block"
 )
 
 type ChaincodeEventWithBlock struct {

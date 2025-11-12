@@ -10,9 +10,9 @@ import (
 	"github.com/hyperledger/fabric-protos-go/orderer"
 	"github.com/hyperledger/fabric/protoutil"
 
-	bft "github.com/s7techlab/hlf-sdk-go/block/smartbft"
-	bftcommon "github.com/s7techlab/hlf-sdk-go/block/smartbft/common"
-	"github.com/s7techlab/hlf-sdk-go/block/txflags"
+	bft "github.com/BukerDevid/hlf-sdk-go/block/smartbft"
+	bftcommon "github.com/BukerDevid/hlf-sdk-go/block/smartbft/common"
+	"github.com/BukerDevid/hlf-sdk-go/block/txflags"
 )
 
 var (

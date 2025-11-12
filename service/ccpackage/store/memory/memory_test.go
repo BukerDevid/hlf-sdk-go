@@ -8,9 +8,9 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/s7techlab/hlf-sdk-go/service/ccpackage"
-	"github.com/s7techlab/hlf-sdk-go/service/ccpackage/store"
-	"github.com/s7techlab/hlf-sdk-go/service/ccpackage/store/memory"
+	"github.com/BukerDevid/hlf-sdk-go/service/ccpackage"
+	"github.com/BukerDevid/hlf-sdk-go/service/ccpackage/store"
+	"github.com/BukerDevid/hlf-sdk-go/service/ccpackage/store/memory"
 )
 
 func TestMemoryStorage(t *testing.T) {

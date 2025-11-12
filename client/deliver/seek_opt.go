@@ -7,8 +7,8 @@ import (
 	ordererproto "github.com/hyperledger/fabric-protos-go/orderer"
 	"go.uber.org/zap"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
-	"github.com/s7techlab/hlf-sdk-go/block"
+	"github.com/BukerDevid/hlf-sdk-go/api"
+	"github.com/BukerDevid/hlf-sdk-go/block"
 )
 
 type SeekOptConverter struct {

@@ -10,9 +10,9 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/s7techlab/hlf-sdk-go/block"
-	sdkmocks "github.com/s7techlab/hlf-sdk-go/client/deliver/testing"
-	"github.com/s7techlab/hlf-sdk-go/testdata/blocks"
+	"github.com/BukerDevid/hlf-sdk-go/block"
+	sdkmocks "github.com/BukerDevid/hlf-sdk-go/client/deliver/testing"
+	"github.com/BukerDevid/hlf-sdk-go/testdata/blocks"
 )
 
 func TestAPI(t *testing.T) {

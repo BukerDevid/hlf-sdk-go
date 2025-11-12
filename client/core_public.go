@@ -9,11 +9,11 @@ import (
 	fabPeer "github.com/hyperledger/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric/msp"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
-	"github.com/s7techlab/hlf-sdk-go/block"
-	"github.com/s7techlab/hlf-sdk-go/client/chaincode"
-	"github.com/s7techlab/hlf-sdk-go/client/chaincode/txwaiter"
-	"github.com/s7techlab/hlf-sdk-go/client/tx"
+	"github.com/BukerDevid/hlf-sdk-go/api"
+	"github.com/BukerDevid/hlf-sdk-go/block"
+	"github.com/BukerDevid/hlf-sdk-go/client/chaincode"
+	"github.com/BukerDevid/hlf-sdk-go/client/chaincode/txwaiter"
+	"github.com/BukerDevid/hlf-sdk-go/client/tx"
 )
 
 func (c *Client) Invoke(

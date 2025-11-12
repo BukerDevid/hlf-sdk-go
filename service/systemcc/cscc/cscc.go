@@ -9,12 +9,12 @@ import (
 	"github.com/hyperledger/fabric-protos-go/common"
 	"github.com/hyperledger/fabric-protos-go/peer"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
-	hlfproto "github.com/s7techlab/hlf-sdk-go/block"
-	"github.com/s7techlab/hlf-sdk-go/client/chaincode"
-	"github.com/s7techlab/hlf-sdk-go/client/channel"
-	"github.com/s7techlab/hlf-sdk-go/client/tx"
-	"github.com/s7techlab/hlf-sdk-go/service"
+	"github.com/BukerDevid/hlf-sdk-go/api"
+	hlfproto "github.com/BukerDevid/hlf-sdk-go/block"
+	"github.com/BukerDevid/hlf-sdk-go/client/chaincode"
+	"github.com/BukerDevid/hlf-sdk-go/client/channel"
+	"github.com/BukerDevid/hlf-sdk-go/client/tx"
+	"github.com/BukerDevid/hlf-sdk-go/service"
 )
 
 //go:embed cscc.swagger.json

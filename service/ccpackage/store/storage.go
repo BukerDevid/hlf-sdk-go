@@ -6,7 +6,7 @@ import (
 	"io"
 	"regexp"
 
-	"github.com/s7techlab/hlf-sdk-go/service/ccpackage"
+	"github.com/BukerDevid/hlf-sdk-go/service/ccpackage"
 )
 
 var (

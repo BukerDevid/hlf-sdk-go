@@ -8,7 +8,7 @@ import (
 	"github.com/hyperledger/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric/msp"
 
-	hlfproto "github.com/s7techlab/hlf-sdk-go/block"
+	hlfproto "github.com/BukerDevid/hlf-sdk-go/block"
 )
 
 type CurrentIdentity interface {

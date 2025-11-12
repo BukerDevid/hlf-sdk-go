@@ -9,11 +9,11 @@ import (
 	"github.com/hyperledger/fabric/msp"
 	"go.uber.org/zap"
 
-	"github.com/s7techlab/hlf-sdk-go/api"
-	"github.com/s7techlab/hlf-sdk-go/api/config"
-	"github.com/s7techlab/hlf-sdk-go/client/discovery"
-	"github.com/s7techlab/hlf-sdk-go/client/grpc"
-	"github.com/s7techlab/hlf-sdk-go/crypto"
+	"github.com/BukerDevid/hlf-sdk-go/api"
+	"github.com/BukerDevid/hlf-sdk-go/api/config"
+	"github.com/BukerDevid/hlf-sdk-go/client/discovery"
+	"github.com/BukerDevid/hlf-sdk-go/client/grpc"
+	"github.com/BukerDevid/hlf-sdk-go/crypto"
 )
 
 // implementation of api.Core interface

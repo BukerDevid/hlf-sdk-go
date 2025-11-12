@@ -7,15 +7,16 @@
 package block
 
 import (
+	reflect "reflect"
+	sync "sync"
+
+	_ "github.com/BukerDevid/hlf-sdk-go/block/smartbft"
 	common "github.com/hyperledger/fabric-protos-go/common"
 	kvrwset "github.com/hyperledger/fabric-protos-go/ledger/rwset/kvrwset"
 	msp "github.com/hyperledger/fabric-protos-go/msp"
 	peer "github.com/hyperledger/fabric-protos-go/peer"
-	_ "github.com/s7techlab/hlf-sdk-go/block/smartbft"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
-	reflect "reflect"
-	sync "sync"
 )
 
 const (

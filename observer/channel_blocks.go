@@ -8,7 +8,7 @@ import (
 	"github.com/hyperledger/fabric/msp"
 	"go.uber.org/zap"
 
-	hlfproto "github.com/s7techlab/hlf-sdk-go/block"
+	hlfproto "github.com/BukerDevid/hlf-sdk-go/block"
 )
 
 type (

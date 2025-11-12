@@ -3,7 +3,7 @@ package config
 import (
 	"errors"
 
-	"github.com/s7techlab/hlf-sdk-go/identity"
+	"github.com/BukerDevid/hlf-sdk-go/identity"
 )
 
 var (
